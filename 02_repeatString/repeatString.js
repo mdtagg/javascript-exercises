@@ -8,7 +8,6 @@ const repeatString = function(string,times) {
     }else {
         return 'ERROR'
     }
-    
 };
 
 // Do not edit below this line
